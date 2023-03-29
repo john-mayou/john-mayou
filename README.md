@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **john@johnmayou.com**
 
-- ⚡ Fun fact **Boats can float on water**
+- ⚡ Fun fact **Boats can float on water :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
