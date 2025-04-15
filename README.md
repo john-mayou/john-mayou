@@ -7,9 +7,9 @@ I'm a focused developer with ~1.5 years of production experience, dedicated to b
 - **[leetcode](https://github.com/john-mayou/leetcode)** - Data Structures and Algorithms prep (Textbooks, Leetcode, NeetCode) with detailed write-ups.
 
 ### 🚀 Additional
-- You can find my **story**, **resume**, and **LeetCode solution write-ups** on [johnmayou.com](https://johnmayou.com)
+- You can find my story, resume, and LeetCode solution write-ups on [johnmayou.com](https://johnmayou.com)
 - Or connect with me on [LinkedIn](https://www.linkedin.com/in/johnmayou)
 
 ---
 
-> I’m looking for new roles where I can learn fast, contribute meaningfully, and level up together with a strong team.
+> I’m looking for new roles where I can learn fast, contribute meaningfully, and grow together as a team.
