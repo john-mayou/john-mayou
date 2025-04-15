@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hey, I’m John
 
-<!--
-**john-mayou/john-mayou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a focused developer with ~1.5 years of production experience, focused on building robust full-stack systems and high-quality solutions.
 
-Here are some ideas to get you started:
+### 🛠️ What I’m working on
+- **[personal-site](https://github.com/john-mayou/personal-site)** – a production grade full-stack site with CI/CD, E2E tests, metrics, logs, infra-as-code, and GitHub Actions deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 What I’ve been up to
+- **Jan–Mar 2025**: Studied Data Structures and Algorithms & LeetCode prep (Textbooks, NeetCode, Blind 75).
+- **Apr 2025–now**: Building polished, production-ready infrastructure with Docker, Terraform, GitHub Actions, and custom infra.
+
+### 📄 More
+- You can find my **story**, **resume**, and **LeetCode solution write-ups** on [johnmayou.com](https://johnmayou.com)
+- Or connect with me on [LinkedIn](https://www.linkedin.com/in/johnmayou)
+
+---
+
+> I’m looking for new roles where I can learn fast, contribute meaningfully, and level up together as a strong team.
