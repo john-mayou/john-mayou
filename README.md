@@ -1,6 +1,6 @@
 ## 👋 Hey, I’m John
 
-I'm a focused developer with ~1.5 years of production experience, dedicated to building robust full-stack systems and high-quality solutions.
+I'm a focused developer with ~2 years of production experience, dedicated to building robust full-stack systems and high-quality solutions.
 
 ### 🛠️ What I’m working on
 - **[personal-site](https://github.com/john-mayou/personal-site)** – a production grade full-stack site with CI/CD, E2E tests, metrics, logs, infrastructure-as-code, and GitHub Actions deployment.
