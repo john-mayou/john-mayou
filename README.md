@@ -11,4 +11,4 @@ I'm a focused developer dedicated to building robust systems and high-quality so
 
 ---
 
-> I’m looking for new roles where I can make meaningful contributions and add value to a great team.
+> I’m looking for new roles where I can make meaningful contributions and add value to a great team!
